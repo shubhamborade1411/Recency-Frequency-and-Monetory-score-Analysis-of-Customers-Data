@@ -11,3 +11,6 @@
 - frequency (how often they make purchases)
 - monetary value (the amount spent on purchases)
 - Recency, Frequency, and Monetary value of a customer are three key metrics that provide information about customer engagement, loyalty, and value to a business.
+
+# Dataset
+- https://drive.google.com/file/d/1CO5STVC_tHu5E73LS8Y2XuxEpyzjujSP/view?usp=sharing
